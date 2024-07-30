@@ -1,4 +1,4 @@
-Hello Everyone this is your Friend @MohammedRehanAlam, 
+## Hello Everyone this is your Friend @MohammedRehanAlam, 
 
 This is just a Basic Game Idea of TIC-TAC-TOE using C Language.
 There is no special libraries required to import.
